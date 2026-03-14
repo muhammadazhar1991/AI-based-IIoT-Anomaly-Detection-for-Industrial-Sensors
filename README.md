@@ -63,14 +63,6 @@ MQTT broker ( AWS IoT)
 
 Libraries listed in requirements.txt
 
-## 🔹 Future Improvements
-
-Add web dashboard for live visualization
-
-Deploy as a SaaS solution with multi-user support
-
-Include alert notifications on anomaly detection
-
 ## 🔹 Contact
 
 GitHub: https://github.com/muhammadazhar1991
