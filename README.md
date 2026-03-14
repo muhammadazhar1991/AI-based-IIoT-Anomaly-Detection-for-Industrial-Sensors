@@ -14,6 +14,7 @@ It integrates **AI algorithms** for anomaly prediction, **MQTT** for sensor data
 📹 [Loom Video Demo] https://www.loom.com/share/3d862475c23d4876a0a90bcfd973dc92 – See the project in action.
 
 ## 🔹 Folder Structure
+```text
 AI-based-IIoT-Anomaly-Detection-platform
 📂 AI-based-IIoT-Anomaly-Detection-platform
 ├─ 📄 README.md
