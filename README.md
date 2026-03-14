@@ -15,26 +15,22 @@ It integrates **AI algorithms** for anomaly prediction, **MQTT** for sensor data
 
 ## 🔹 Folder Structure
 AI-based-IIoT-Anomaly-Detection-platform
-│
-├── README.md
-├── requirements.txt
-│
-├── src
-│   ├── Sensor_AI_publisher.py     (main running file)
-│   └── AI_anomalydetector.py     (AI algorithm)
-│
-├── aws_lambda
-│   └── lambda_function.py
-│
-├── screenshots
-│   ├── dashboard.png
-    ├── dashboard_Flow.png
-    ├── SQL_DB.png
-    ├── dynamodb_logs.png
-    ├── aws-iot-mqtt.png
-    └── anomaly_email.png
-│
-└── architecture.png
+📂 AI-based-IIoT-Anomaly-Detection-platform
+├─ 📄 README.md
+├─ 📄 requirements.txt
+├─ 📂 src
+│  ├─ 🐍 Sensor_AI_publisher.py
+│  └─ 🐍 AI_anomalydetector.py
+├─ 📂 aws_lambda
+│  └─ 🐍 lambda_function.py
+├─ 📂 screenshots
+│  ├─ 🖼 dashboard.png
+│  ├─ 🖼 dashboard_Flow.png
+│  ├─ 🖼 SQL_DB.png
+│  ├─ 🖼 dynamodb_logs.png
+│  ├─ 🖼 aws-iot-mqtt.png
+│  └─ 🖼 anomaly_email.png
+└─ 🖼 architecture.png
 
 
 ## 🔹 Installation
