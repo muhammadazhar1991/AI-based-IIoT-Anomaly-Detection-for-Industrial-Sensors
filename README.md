@@ -11,7 +11,7 @@ It integrates **AI algorithms** for anomaly prediction, **MQTT** for sensor data
 - Dashboard-ready data outputs for visualization
 
 ## 🔹 Demo
-📹 [Loom Video Demo] https://www.loom.com/share/3d862475c23d4876a0a90bcfd973dc92 – See the project in action.
+📹 [Loom Video Demo] https://www.loom.com/share/ea1b543cdc874922a2f72bc39f83b5b1 – See the project in action.
 
 ## 🔹 Folder Structure
 ```text
