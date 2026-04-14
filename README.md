@@ -11,6 +11,12 @@ This PoC simulates sensor data, processes it using Python, and detects anomalies
 - Integration with AWS IoT for cloud monitoring
 - Dashboard-ready data outputs for visualization
 
+**Industrial Integration (Implemented)**
+
+Integrated MQTT protocol for real-time data streaming between sensor simulation and processing module
+Implemented cloud-compatible architecture aligned with AWS IoT services
+Demonstrated anomaly detection in both edge (local Python processing) and cloud-ready setup
+
 ## 🔹 Demo
 📹 https://www.youtube.com/watch?v=z6vmKsaQvAs – See the project in action.
 
@@ -33,6 +39,7 @@ AI-based-IIoT-Anomaly-Detection-platform
 │  ├─ 🖼 aws-iot-mqtt.png
 │  └─ 🖼 anomaly_email.png
 └─ 🖼 architecture.png
+
 
 
 ## 🔹 Installation
