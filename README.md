@@ -1,8 +1,9 @@
 # AI based Anomaly Detection with Sensor Data & AWS IoT core
 
 ## 🔹 Project Overview
-This project demonstrates real-time AI based anomaly detection using sensor data.  
-It integrates **AI algorithms** for anomaly prediction, **MQTT** for sensor data streaming, **AWS IoT** for cloud communication and **Node Red** for visualization.  
+Industrial machines generate continuous sensor data, and undetected anomalies can lead to costly downtime. This project presents a Proof of Concept (PoC) for an IIoT-based anomaly detection system to identify such issues early.  
+This PoC simulates sensor data, processes it using Python, and detects anomalies in real time using ML based algorithms. The system is integrated with
+ **MQTT** for sensor data streaming, **AWS IoT** for cloud communication and **Node Red** for visualization.  
 
 **Key Features:**
 - Real-time sensor data collection and publishing
@@ -11,7 +12,7 @@ It integrates **AI algorithms** for anomaly prediction, **MQTT** for sensor data
 - Dashboard-ready data outputs for visualization
 
 ## 🔹 Demo
-📹 [Loom Video Demo] https://www.loom.com/share/ea1b543cdc874922a2f72bc39f83b5b1 – See the project in action.
+📹 https://www.youtube.com/watch?v=z6vmKsaQvAs – See the project in action.
 
 ## 🔹 Folder Structure
 ```text
